@@ -1,0 +1,14 @@
+{
+  "name": "@qctrl/test-npm",
+
+  "version": "0.0.1",
+
+  "description": "Test NPM",
+  
+  "license": "UNLICENSED",
+
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cfarrend/test-npm.git"
+  }
+}
