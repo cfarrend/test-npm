@@ -1,14 +1,9 @@
 {
   "name": "@cfarrend/test-npm",
 
-  "version": "0.0.2",
+  "version": "0.0.3",
 
   "description": "Test NPM",
   
   "license": "UNLICENSED",
-
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/cfarrend/test-npm.git"
-  }
 }
